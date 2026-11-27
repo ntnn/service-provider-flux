@@ -10,5 +10,5 @@ permissions:
 
 jobs:
   generate:
-    uses: openmcp-project/build/.github/workflows/renovate-generate.lib.yaml@fd9dd7d9a651bbbe17d625a406929cdabc883097 # main
+    uses: openmcp-project/build/.github/workflows/renovate-generate.lib.yaml@2e7bd57908a6432fd2bc40e0cdeb0ab10f37760a # main
     secrets: inherit
